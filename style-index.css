@@ -3,3 +3,16 @@ body {
     font-family: 'Raleway';
     background: linear-gradient(to right, rgb(33, 14, 157), rgb(153, 13, 185));
 }
+h1 {
+    color: rgba(255, 255, 255, 1);
+    font-size: 100pt;
+    padding: 20px;
+    width: 50%;
+    margin-left: 25%;
+}
+.markup-1 {
+    padding: 25px;
+    margin: 10px;
+    background: rgba(0, 0, 0, 0.2);
+    border-radius: 30px;
+}
