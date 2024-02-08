@@ -21,14 +21,15 @@ h1 {
     top: 0;
     left: 0;
     right: 0;
-    width: 15%;
     background: rgba(0, 0, 0, 0.2);
 }
 .nav-head-top {
-    padding: 10px;
-    font-size: 14pt;
+    padding: 15px;
+    font-size: 15pt;
     border: none;
+    color: rgba(255, 255, 255, 0.7);
 }
-.nav-head-top {
+.nav-head-top:hover {
     background: rgba(0, 0, 0, 0.2);
+    cursor: pointer;
 }
