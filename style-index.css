@@ -1,0 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
+body {
+    font-family: 'Raleway';
+    background: linear-gradient(to right, rgb(33, 14, 157), rgb(153, 13, 185));
+}
