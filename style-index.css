@@ -16,3 +16,19 @@ h1 {
     background: rgba(0, 0, 0, 0.2);
     border-radius: 30px;
 }
+.head-top {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 15%;
+    background: rgba(0, 0, 0, 0.2);
+}
+.nav-head-top {
+    padding: 10px;
+    font-size: 14pt;
+    border: none;
+}
+.nav-head-top {
+    background: rgba(0, 0, 0, 0.2);
+}
