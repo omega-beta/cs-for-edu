@@ -24,12 +24,15 @@ h1 {
     left: 0;
     bottom: 0;
     background: rgba(0, 0, 0, 0.7);
+    width: 20%;
 }
 .nav-head-top {
     padding: 15px;
     font-size: 15pt;
     border: none;
-    color: rgba(0, 0, 0, 0.7);
+    background: rgba(0, 0, 0, 0.7);
+    color: rgba(255, 255, 255, 1);
+    font-family: 'Raleway';
 }
 .nav-head-top:hover {
     background: rgba(255, 255, 255, 0.4);
