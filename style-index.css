@@ -30,7 +30,7 @@ h1 {
     padding: 15px;
     font-size: 15pt;
     border: none;
-    background: linear-gradient(to right, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.5));
+    background: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0));
     color: rgba(255, 255, 255, 1);
     font-family: 'Raleway';
     width: 100%;
@@ -40,7 +40,7 @@ h1 {
     padding-bottom: 25px;
 }
 .nav-head-top:hover {
-    background: linear-gradient(to right, rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.5));
+    background: linear-gradient(to right, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0.3));
     color: rgba(0, 0, 0, 1);
     cursor: pointer;
 }
