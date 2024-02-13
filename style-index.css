@@ -23,7 +23,7 @@ h1 {
     top: 0;
     left: 0;
     bottom: 0;
-    background: linear-gradient(to right, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.5));
+    background: linear-gradient(to right, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.3));
     width: 20%;
 }
 .nav-head-top {
@@ -43,4 +43,7 @@ h1 {
     background: linear-gradient(to right, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0.3));
     color: rgba(0, 0, 0, 1);
     cursor: pointer;
+}
+a {
+    text-decoration: none;
 }
